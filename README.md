@@ -1,3 +1,3 @@
-#A Very Basic C# Hello World
+# A Very Basic C# Hello World
 
-This is forthe very first assignment for C#
+Very first assignment!
